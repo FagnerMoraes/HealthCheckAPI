@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0nN1o+pR2p7atSK7CRd/pWw6JYz+XYu8GN1rsVaEy7YSA3YhEYCKO20zV9EUIeywWqdc01d1/P4bkqFbDQbTA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\AngularDotnetProjects\\HealthCheck\\HealthCheckAPI\\HealthCheckAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fagmc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\fagmc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\fagmc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\fagmc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\fagmc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\fagmc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
